@@ -184,6 +184,10 @@ git lfs track
 # 技巧
 ## 1.推出Git log
 英文键盘下`q`
+## 2.把远程仓库和本地同步，消除差异
+```shell
+git pull origin master --allow-unrelated-histories
+```
 
 # 参考
 

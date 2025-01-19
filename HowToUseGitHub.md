@@ -67,7 +67,7 @@ git commit -m "xxx"       #xxx相当于对添加的文件的注释
 git push -u origin master #提交到远程仓库
 ```
 
-``shell
+```shell
  error: src refspec main does not match any
   error: failed to push some refs to 'git@github.com:xxx'
 # reference  https://blog.csdn.net/u014361280/article/details/109703556
